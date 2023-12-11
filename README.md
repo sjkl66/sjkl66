@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjkl66
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java,Python,C#,Rust,JavaScript,C++,C
+- 🌱 I’m currently learning Java,Python,C#,Rust,JavaScript,C++,C,GO,SQL,HTML,CSS
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me: Email me
 
